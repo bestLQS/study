@@ -1,0 +1,9 @@
+<header><h1>简历</h1></header>
+<p>姓名：张三</p>
+<p>联系方式：18600000000</p>
+<p>邮箱：joinefe@baidu.com</p>
+<p>本科：百度前端学院</p>
+<div><p>项目经验：</p>
+  <p>A项目，Polyvia，Low-poly风格视频、图像处理。</p>
+  <p>B项目，Bain Gua，CSS和Javascript制作的易经六十四卦变卦特效。</p>
+</div>
